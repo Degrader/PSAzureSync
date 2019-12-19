@@ -36,9 +36,6 @@ function Compare-DirectoryGroups {
 		System.String,
 		System.String
 
-	.OUTPUTS
-		System.Management.Automation.PSObject
-
 	.LINK
 		about_modules
 
